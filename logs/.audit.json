@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/kali/Desktop/juice-shop/logs/.audit.json",
+    "files": [
+        {
+            "date": 1670790381458,
+            "name": "/home/kali/Desktop/juice-shop/logs/access.log.2022-12-11",
+            "hash": "2ff5d306a38f367aaff1f74b7a28bdd1"
+        },
+        {
+            "date": 1670802510553,
+            "name": "/home/kali/Desktop/juice-shop/logs/access.log.2022-12-12",
+            "hash": "a317f48a224adc9d7110752483f80060"
+        }
+    ]
+}
